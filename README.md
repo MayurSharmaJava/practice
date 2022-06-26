@@ -1,4 +1,4 @@
-# practice
+# My Java Practice
 Java Practice Code which I created while understanding different topics of java
 
 Topics covered are as below.
