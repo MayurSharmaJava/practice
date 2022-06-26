@@ -1,4 +1,4 @@
-package practice.threads;
+package threads;
 
 public class ThreadCreationStyle2 {
     public static void main(String[] args) {

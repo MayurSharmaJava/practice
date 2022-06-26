@@ -1,4 +1,4 @@
-package practice.staticTest;
+package staticTest;
 
 public class MyStaticClass {
 

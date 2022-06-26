@@ -1,4 +1,4 @@
-package practice.function;
+package function;
 
 import java.util.function.Function;
 

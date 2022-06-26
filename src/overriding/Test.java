@@ -1,4 +1,4 @@
-package practice.overriding;
+package overriding;
 
 public class Test {
 

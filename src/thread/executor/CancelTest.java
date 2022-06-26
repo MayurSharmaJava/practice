@@ -1,4 +1,4 @@
-package practice.thread.executor;
+package thread.executor;
 
 import java.util.ArrayList;
 import java.util.HashSet;
